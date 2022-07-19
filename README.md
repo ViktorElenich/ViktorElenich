@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm Junior Front-End Developer. My goal is to become the best and achieve great heights in the IT-industry.
+I'm Junior Front-End Developer. My goal is to become the best and achieve great heights in the IT-industry.\
 🎓 &nbsp;I like to code things from scratch, and enjoy bringing ideas to life in the browser. Interested in working on ambitious projects with positive people.\
-💬 &nbsp;I'm currently looking for a job as a Frontend Developer!
+💬 &nbsp;I'm currently looking for a job as a Frontend Developer!\
 ✉️ &nbsp;You can shoot me an email at velenic@mail.ru! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/viktorelenich/viktorelenich/master/assets/Night-Coding.gif" align="right"/>
@@ -19,6 +19,11 @@ I'm Junior Front-End Developer. My goal is to become the best and achieve great 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+
+
 
 
 
